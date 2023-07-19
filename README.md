@@ -81,6 +81,10 @@ EasyPark is released under the MIT License.
 
 For any inquiries or support, feel free to contact us at shalevgabay60@gmail.com
 
+# Support
+
+The app made by Shalev Gabay & Yosef Haim-Jan
+
 
 # App Pictures
 
