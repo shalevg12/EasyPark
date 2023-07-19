@@ -58,7 +58,7 @@ EasyPark comes with a comprehensive test suite to ensure code quality and functi
 
 # Contributing
 
-We welcome contributions to improve EasyPark-23! To contribute, follow these steps:
+We welcome contributions to improve EasyPark! To contribute, follow these steps:
 
 1. Fork the repository.
 
