@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "EasyPark",
+    "slug": "easyparksce",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/easyParkLogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo-color.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yosefha.easyparksce"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo-color.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.CAMERA",
+        "android.permission.RECEIVE_NOTIFICATIONS"
+      ],
+      "package": "com.yosefha.easyparksce"
+    },
+    "web": {
+      "favicon": "./assets/logo-color.png"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "The app needs access to your camera in order to take photos of your car parking ."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "85c43dae-18c7-4231-adac-e2f3828f53c2"
+      }
+    },
+    "owner": "yosefha"
+  }
+}
