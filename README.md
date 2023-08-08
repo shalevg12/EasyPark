@@ -11,40 +11,39 @@
 
 ## Features
 
-Rent private parking spots from other users
-Share your own private parking spot with other users
-Search for available parking spots by location or price
-Book parking spots in advance for added convenience
-View your rental history and upcoming bookings
-Manage your parking spot listings and availability easily
+- Rent private parking spots from other users
+- Share your own private parking spot with other users
+- Search for available parking spots by location or price
+- Book parking spots in advance for added convenience
+- View your rental history and upcoming bookings
+- Manage your parking spot listings and availability easily
 
 ## Technology Stack
 
 The project uses the following technologies:
 
-React Native
-Expo Framework
-Jest for testing
-React Testing Library
-React Test Renderer
+- React Native
+- Expo Framework
+- Jest for testing
+- React Testing Library
+- React Test Renderer
 
 ## Installation
 
 To run **EasyPark** on your mobile device or emulator, follow these steps:
 
 1. __Prerequisites:__ Make sure you have Node.js and npm installed on your machine.
+   
 2. __Clone the Repository:__ Clone this GitHub repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/shalevg12/EasyPark
 ```
-
-
-3. __Install Dependencies:__ Navigate to the project's root directory and install the required dependencies using npm:
-
 ```bash
 cd EasyPark
 ```
+
+3. __Install Dependencies:__ Navigate to the project's root directory and install the required dependencies using npm:
 
 ```bash
 npm install
